@@ -16,3 +16,5 @@ The application creates asynchronous APIs requests to a [DummyJSON](https://dumm
 - Dynamic loading indicator while the app retrieves data.
 
 ---
+
+You can access the live demo here: [Your Live Link](https://gleaming-sprite-bcd62c.netlify.app/)
